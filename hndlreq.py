@@ -69,9 +69,6 @@ class MainPage(webapp2.RequestHandler):
 			ret=self.posttweet(tweetmsg)
 
 		if ret and helpreq!=1:
- 			#self.response.write( "BloodGrp " + bloodgrp +" ")
-			#self.response.write( "City " + city +" ")
-			#self.response.write( "Contactno "+ contactnum+" "+contactinfo +"\n")
 			self.response.write( "Posted: "+tweetmsg+"\n")
 		else:
 			self.response.write( "Apologies! Tweet posting failed. Please try after sometime.\n")
