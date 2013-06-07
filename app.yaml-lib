@@ -1,0 +1,13 @@
+application: request4blood 
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: hndlreq.app 
+
+libraries:
+- name: tweepy
+  version: "2.0"
