@@ -12,9 +12,10 @@ serve in amplifying the request to
 a larger audience. This app helps to 
 broaden the reach of broadcast 
 message for blood request through a 
-tweet. 
-      
-SMSing #reqblood BLOODGROUP CITY CONTACTNUM CONTACTINFO to 55444 tweets a post on handle @reqblood. 
-
+tweet. SMSing #reqblood BLOODGROUP 
+CITY CONTACTNUM CONTACTINFO to 55444 
+tweets a post on handle @reqblood. 
 This app works only in India, at present. 
+
+
 -----------------------------------------------
